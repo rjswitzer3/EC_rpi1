@@ -1,1 +1,1 @@
-# EC_rpi1
+# Eye-Can Project - Raspberry Pi1

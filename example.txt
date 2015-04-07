@@ -1,0 +1,1 @@
+This file is to record x and y pos.
