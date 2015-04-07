@@ -1,1 +1,1 @@
-# Eye-Can Project - Raspberry Pi1
+# Eye-Can Project: Image Processing
